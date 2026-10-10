@@ -1,9 +1,11 @@
-github rule-check:
+# github rule-check
 
+## situation
 i inherit a project from https://github.com/LibreChat-AI/LibreChat
 i list the source https://github.com/LibreChat-AI/LibreChat in my mit project
 i adopt and extend the repository for a specific usecase
 
+## qualified OpenAI response
 ----------------------------------------------------------------------
 Yes—you can adapt and extend LibreChat for your specific use case and release your project under MIT. LibreChat’s current license permits modification, distribution, sublicensing, and commercial use. GitHub
 Listing the source URL alone is not enough. When distributing copied or modified LibreChat code, you must include its copyright notice and MIT license text. Choose a License
