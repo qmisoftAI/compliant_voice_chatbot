@@ -1,5 +1,5 @@
 # compliant_voice_chatbot
-create a full governance compliant voice-chatbot
+full governance compliant voice-chatbot
 
 the core work regarding chatbot has been done by
 https://github.com/LibreChat-AI/LibreChat
