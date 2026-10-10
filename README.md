@@ -1,7 +1,7 @@
 # compliant_voice_chatbot
 full governance compliant voice-chatbot
 
-the core work regarding chatbot has been done by
+all the chatbot core work has been done by
 https://github.com/LibreChat-AI/LibreChat
 
 our target is to add a governance layer which is conform to a rule-based list of restrictions
